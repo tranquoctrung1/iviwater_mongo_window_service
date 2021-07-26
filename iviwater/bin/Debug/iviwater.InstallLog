@@ -1,0 +1,39 @@
+﻿Installing assembly 'C:\Users\TQTr\Desktop\iviwater\iviwater\bin\Debug\iviwater.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TQTr\Desktop\iviwater\iviwater\bin\Debug\iviwater.InstallLog
+   assemblypath = C:\Users\TQTr\Desktop\iviwater\iviwater\bin\Debug\iviwater.exe
+Installing service iviwater...
+Service iviwater has been successfully installed.
+Creating EventLog source iviwater in log Application...
+Committing assembly 'C:\Users\TQTr\Desktop\iviwater\iviwater\bin\Debug\iviwater.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TQTr\Desktop\iviwater\iviwater\bin\Debug\iviwater.InstallLog
+   assemblypath = C:\Users\TQTr\Desktop\iviwater\iviwater\bin\Debug\iviwater.exe
+Installing assembly 'C:\Users\TQTr\Desktop\iviwater\iviwater\bin\Debug\iviwater.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TQTr\Desktop\iviwater\iviwater\bin\Debug\iviwater.InstallLog
+   assemblypath = C:\Users\TQTr\Desktop\iviwater\iviwater\bin\Debug\iviwater.exe
+Installing service iviwater...
+Creating EventLog source iviwater in log Application...
+Rolling back assembly 'C:\Users\TQTr\Desktop\iviwater\iviwater\bin\Debug\iviwater.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TQTr\Desktop\iviwater\iviwater\bin\Debug\iviwater.InstallLog
+   assemblypath = C:\Users\TQTr\Desktop\iviwater\iviwater\bin\Debug\iviwater.exe
+Restoring event log to previous state for source iviwater.
+Installing assembly 'C:\Users\TQTr\Desktop\iviwater\iviwater\bin\Debug\iviwater.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TQTr\Desktop\iviwater\iviwater\bin\Debug\iviwater.InstallLog
+   assemblypath = C:\Users\TQTr\Desktop\iviwater\iviwater\bin\Debug\iviwater.exe
+Installing service iviwater...
+Creating EventLog source iviwater in log Application...
+Rolling back assembly 'C:\Users\TQTr\Desktop\iviwater\iviwater\bin\Debug\iviwater.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TQTr\Desktop\iviwater\iviwater\bin\Debug\iviwater.InstallLog
+   assemblypath = C:\Users\TQTr\Desktop\iviwater\iviwater\bin\Debug\iviwater.exe
+Restoring event log to previous state for source iviwater.

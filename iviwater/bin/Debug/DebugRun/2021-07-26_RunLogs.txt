@@ -1,0 +1,56 @@
+Start:2021-07-26 19:23:53:Service is  started at 7/26/2021 7:23:53 PM
+ReCall:2021-07-26 19:23:58:Service is recall at 7/26/2021 7:23:58 PM
+ReCall:2021-07-26 19:24:03:Service is recall at 7/26/2021 7:24:03 PM
+ReCall:2021-07-26 19:24:08:Service is recall at 7/26/2021 7:24:08 PM
+ReCall:2021-07-26 19:24:13:Service is recall at 7/26/2021 7:24:13 PM
+ReCall:2021-07-26 19:24:18:Service is recall at 7/26/2021 7:24:18 PM
+ReCall:2021-07-26 19:24:23:Service is recall at 7/26/2021 7:24:23 PM
+ReCall:2021-07-26 19:24:28:Service is recall at 7/26/2021 7:24:28 PM
+ReCall:2021-07-26 19:24:33:Service is recall at 7/26/2021 7:24:33 PM
+ReCall:2021-07-26 19:24:38:Service is recall at 7/26/2021 7:24:38 PM
+ReCall:2021-07-26 19:24:43:Service is recall at 7/26/2021 7:24:43 PM
+ReCall:2021-07-26 19:24:48:Service is recall at 7/26/2021 7:24:48 PM
+ReCall:2021-07-26 19:24:53:Service is recall at 7/26/2021 7:24:53 PM
+ReCall:2021-07-26 19:24:58:Service is recall at 7/26/2021 7:24:58 PM
+ReCall:2021-07-26 19:25:03:Service is recall at 7/26/2021 7:25:03 PM
+ReCall:2021-07-26 19:25:08:Service is recall at 7/26/2021 7:25:08 PM
+ReCall:2021-07-26 19:25:13:Service is recall at 7/26/2021 7:25:13 PM
+ReCall:2021-07-26 19:25:18:Service is recall at 7/26/2021 7:25:18 PM
+ReCall:2021-07-26 19:25:23:Service is recall at 7/26/2021 7:25:23 PM
+ReCall:2021-07-26 19:25:28:Service is recall at 7/26/2021 7:25:28 PM
+ReCall:2021-07-26 19:25:33:Service is recall at 7/26/2021 7:25:33 PM
+ReCall:2021-07-26 19:25:38:Service is recall at 7/26/2021 7:25:38 PM
+ReCall:2021-07-26 19:25:43:Service is recall at 7/26/2021 7:25:43 PM
+ReCall:2021-07-26 19:25:48:Service is recall at 7/26/2021 7:25:48 PM
+ReCall:2021-07-26 19:25:53:Service is recall at 7/26/2021 7:25:53 PM
+ReCall:2021-07-26 19:25:58:Service is recall at 7/26/2021 7:25:58 PM
+ReCall:2021-07-26 19:26:03:Service is recall at 7/26/2021 7:26:03 PM
+ReCall:2021-07-26 19:26:08:Service is recall at 7/26/2021 7:26:08 PM
+ReCall:2021-07-26 19:26:13:Service is recall at 7/26/2021 7:26:13 PM
+ReCall:2021-07-26 19:26:18:Service is recall at 7/26/2021 7:26:18 PM
+ReCall:2021-07-26 19:26:23:Service is recall at 7/26/2021 7:26:23 PM
+ReCall:2021-07-26 19:26:28:Service is recall at 7/26/2021 7:26:28 PM
+ReCall:2021-07-26 19:26:33:Service is recall at 7/26/2021 7:26:33 PM
+ReCall:2021-07-26 19:26:38:Service is recall at 7/26/2021 7:26:38 PM
+ReCall:2021-07-26 19:26:43:Service is recall at 7/26/2021 7:26:43 PM
+ReCall:2021-07-26 19:26:48:Service is recall at 7/26/2021 7:26:48 PM
+ReCall:2021-07-26 19:26:53:Service is recall at 7/26/2021 7:26:53 PM
+ReCall:2021-07-26 19:26:58:Service is recall at 7/26/2021 7:26:58 PM
+ReCall:2021-07-26 19:27:03:Service is recall at 7/26/2021 7:27:03 PM
+ReCall:2021-07-26 19:27:08:Service is recall at 7/26/2021 7:27:08 PM
+ReCall:2021-07-26 19:27:13:Service is recall at 7/26/2021 7:27:13 PM
+ReCall:2021-07-26 19:27:18:Service is recall at 7/26/2021 7:27:18 PM
+ReCall:2021-07-26 19:27:23:Service is recall at 7/26/2021 7:27:23 PM
+ReCall:2021-07-26 19:27:28:Service is recall at 7/26/2021 7:27:28 PM
+ReCall:2021-07-26 19:27:33:Service is recall at 7/26/2021 7:27:33 PM
+Stop:2021-07-26 19:27:37:Service is stopped at 7/26/2021 7:27:37 PM
+Start:2021-07-26 19:30:59:Service is  started at 7/26/2021 7:30:59 PM
+Insert:2021-07-26 19:31:05:Inserted Success To t_Data_Logger_1234_01
+Update:2021-07-26 19:31:05:Update Success To t_Channel_Configurations by ChannelId1234_01
+Insert:2021-07-26 19:31:06:Inserted Success To t_Data_Logger_3456_02
+Update:2021-07-26 19:31:06:Update Success To t_Channel_Configurations by ChannelId3456_02
+Insert:2021-07-26 19:33:49:Inserted Success To t_Data_Logger_1234_01
+Update:2021-07-26 19:33:49:Update Success To t_Channel_Configurations by ChannelId1234_01
+Insert:2021-07-26 19:35:19:Inserted Success To t_Data_Logger_3456_01
+Update:2021-07-26 19:35:19:Update Success To t_Channel_Configurations by ChannelId3456_01
+Stop:2021-07-26 19:37:31:Service is stopped at 7/26/2021 7:37:31 PM
