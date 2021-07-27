@@ -29,7 +29,7 @@ namespace iviwater
         {
             log.WriteLog("Service is  started at " + DateTime.Now, "Start", false);
             timer.Elapsed += new ElapsedEventHandler(OnElapsedTime);
-            timer.Interval = 5000; //number in milisecinds  
+            timer.Interval = 60000; //number in milisecinds  
             timer.Enabled = true;
         }
 
@@ -41,8 +41,8 @@ namespace iviwater
         private void OnElapsedTime(object source, ElapsedEventArgs e)
         {
             //log.WriteLog("Service is recall at " + DateTime.Now, "ReCall", false);
-            //readCelloController.SyncData();
-            mainController.Main();
+            readCelloController.SyncData();
+            //mainController.Main();
 
         }
     }

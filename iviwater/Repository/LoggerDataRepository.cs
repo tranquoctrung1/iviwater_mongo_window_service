@@ -23,7 +23,7 @@ namespace WF_iPMAC.Repository
             this.channel_id = channel_id;
             this._pmac = pmac;
             this.collection = database.GetCollection<DataModel>(Common.Constant.t_dt_logger + channel_id);
-            this.pmac_path = "C:\\PMAC\\Web\\"+ channel_id + ".dat";
+            this.pmac_path = "C:\\PMAC\\Web_TMP\\"+ channel_id + ".dat";
         }
 
         public bool InsertData()

@@ -11,7 +11,7 @@ namespace WF_iPMAC.Common
         //Connection String
         // public const string connectionString = "mongodb://admin:1234@localhost:27017/admin";
         public const string connectionString = "mongodb://localhost:27017";
-        public const string database = "viwater";
+        public const string database = "node_viwater";
         //Tables
         public const string t_Units = "t_Units";
         public const string t_SysParam = "t_SysParam";

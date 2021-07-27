@@ -10,20 +10,21 @@ namespace iviwater.Controller
 {
     public class ReadCelloController
     {
+        Log_Controller log = new Log_Controller();
         public void SyncData()
         {
             //Copy files
             File_Controller _file = new File_Controller();
             string source_path = @"C:\PMAC\DATA";
-            string des_path = @"C:\PMAC\Web";
+            string des_path = @"C:\PMAC\Web_TMP";
             _file.Copy_Files(source_path, des_path);
 
             source_path = @"C:\PMAC\DATA\Index";
-            des_path = @"C:\PMAC\Web\Index";
+            des_path = @"C:\PMAC\Web_TMP\Index";
             _file.Copy_Files(source_path, des_path);
 
             source_path = @"C:\PMAC\Loggers";
-            des_path = @"C:\PMAC\Web\Loggers";
+            des_path = @"C:\PMAC\Web_TMP\Loggers";
             _file.Copy_Files(source_path, des_path);
 
             long totalTime = 0;
@@ -53,15 +54,23 @@ namespace iviwater.Controller
             long totalTime = 0;
             foreach (var channelId in channelIds)
             {
-                var _pmac = new PMAC_Controller(channelId);
-                var _channelConfig = new ChannelConfigRepository(channelId, _pmac);
-                var _loggerConfig = new LoggerConfigRepository(channelId, _pmac);
-                var _index = new IndexRepository(channelId, _pmac);
-                var _logger = new LoggerDataRepository(channelId, _pmac);
-                _channelConfig.UpdateChannelConfig();
-                _loggerConfig.UpdateLoggerConfig();
-                _logger.InsertData();
-                _index.InsertData();
+                try
+                {
+                    var _pmac = new PMAC_Controller(channelId);
+                    var _channelConfig = new ChannelConfigRepository(channelId, _pmac);
+                    var _loggerConfig = new LoggerConfigRepository(channelId, _pmac);
+                    var _index = new IndexRepository(channelId, _pmac);
+                    var _logger = new LoggerDataRepository(channelId, _pmac);
+                    _channelConfig.UpdateChannelConfig();
+                    _loggerConfig.UpdateLoggerConfig();
+                    _logger.InsertData();
+                    _index.InsertData();
+                }
+                catch(Exception ex)
+                {
+                    log.WriteLog(ex.Message, "Error", true);
+                }
+               
             }
             return totalTime;
         }

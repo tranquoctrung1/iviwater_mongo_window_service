@@ -25,7 +25,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\";
+                string fileName = @"C:\PMAC\Web_TMP\";
                 fileName = fileName + ChannelID + ".dat";
                 if (File.Exists(fileName))
                 {
@@ -53,7 +53,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\";
+                string fileName = @"C:\PMAC\Web_TMP\";
                 fileName = fileName + ChannelID + ".dat";
                 if (File.Exists(fileName))
                 {
@@ -76,7 +76,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\";
+                string fileName = @"C:\PMAC\Web_TMP\";
                 fileName = fileName + ChannelID + ".dat";
                 if (File.Exists(fileName))
                 {
@@ -97,7 +97,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\";
+                string fileName = @"C:\PMAC\Web_TMP\";
                 fileName = fileName + ChannelID + ".dat";
                 if (File.Exists(fileName))
                 {
@@ -118,7 +118,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\";
+                string fileName = @"C:\PMAC\Web_TMP\";
                 fileName = fileName + ChannelID + ".dat";
                 if (File.Exists(fileName))
                 {
@@ -139,7 +139,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\";
+                string fileName = @"C:\PMAC\Web_TMP\";
                 fileName = fileName + ChannelID + ".dat";
                 if (File.Exists(fileName))
                 {
@@ -160,7 +160,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\";
+                string fileName = @"C:\PMAC\Web_TMP\";
                 fileName = fileName + ChannelID + ".dat";
                 if (File.Exists(fileName))
                 {
@@ -181,7 +181,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\";
+                string fileName = @"C:\PMAC\Web_TMP\";
                 fileName = fileName + ChannelID + ".dat";
                 if (File.Exists(fileName))
                 {
@@ -205,7 +205,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\";
+                string fileName = @"C:\PMAC\Web_TMP\";
                 fileName = fileName + ChannelID + ".dat";
                 if (File.Exists(fileName))
                 {
@@ -229,7 +229,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\";
+                string fileName = @"C:\PMAC\Web_TMP\";
                 fileName = fileName + ChannelID + ".dat";
                 if (File.Exists(fileName))
                 {
@@ -257,7 +257,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\";
+                string fileName = @"C:\PMAC\Web_TMP\";
                 fileName = fileName + ChannelID + ".dat";
                 if (File.Exists(fileName))
                 {
@@ -285,7 +285,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\";
+                string fileName = @"C:\PMAC\Web_TMP\";
                 fileName = fileName + ChannelID + ".dat";
                 if (File.Exists(fileName))
                 {
@@ -306,7 +306,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\";
+                string fileName = @"C:\PMAC\Web_TMP\";
                 fileName = fileName + ChannelID + ".dat";
                 if (File.Exists(fileName))
                 {
@@ -330,7 +330,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\";
+                string fileName = @"C:\PMAC\Web_TMP\";
                 fileName = fileName + ChannelID + ".dat";
                 if (File.Exists(fileName))
                 {
@@ -351,7 +351,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\";
+                string fileName = @"C:\PMAC\Web_TMP\";
                 fileName = fileName + ChannelID + ".dat";
                 if (File.Exists(fileName))
                 {
@@ -382,7 +382,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\";
+                string fileName = @"C:\PMAC\Web_TMP\";
                 fileName = fileName + ChannelID + ".dat";
                 if (File.Exists(fileName))
                 {
@@ -452,7 +452,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\";
+                string fileName = @"C:\PMAC\Web_TMP\";
                 fileName = fileName + ChannelID + ".dat";
                 if (File.Exists(fileName))
                 {
@@ -500,7 +500,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\";
+                string fileName = @"C:\PMAC\Web_TMP\";
                 fileName = fileName + ChannelID + ".dat";
                 if (File.Exists(fileName))
                 {
@@ -574,7 +574,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\";
+                string fileName = @"C:\PMAC\Web_TMP\";
                 fileName = fileName + ChannelID + ".dat";
 
                 if (File.Exists(fileName))
@@ -607,7 +607,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\index\";
+                string fileName = @"C:\PMAC\Web_TMP\index\";
                 fileName = fileName + ChannelID + ".IIF";
 
                 if (File.Exists(fileName))
@@ -636,7 +636,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\index\";
+                string fileName = @"C:\PMAC\Web_TMP\index\";
                 fileName = fileName + ChannelID + ".IIF";
 
                 if (File.Exists(fileName))
@@ -665,7 +665,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\index\";
+                string fileName = @"C:\PMAC\Web_TMP\index\";
                 fileName = fileName + ChannelID + ".IIF";
 
                 if (File.Exists(fileName))
@@ -701,7 +701,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\index\";
+                string fileName = @"C:\PMAC\Web_TMP\index\";
                 fileName = fileName + ChannelID + ".IIF";
 
                 if (File.Exists(fileName))
@@ -739,7 +739,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\index\";
+                string fileName = @"C:\PMAC\Web_TMP\index\";
                 fileName = fileName + ChannelID + ".IIF";
 
                 if (File.Exists(fileName))
@@ -790,7 +790,7 @@ namespace WF_iPMAC.Controller
         {
             try
             {
-                string fileName = @"C:\PMAC\Web\index\";
+                string fileName = @"C:\PMAC\Web_TMP\index\";
                 fileName = fileName + ChannelID + ".IIF";
 
                 if (File.Exists(fileName))
